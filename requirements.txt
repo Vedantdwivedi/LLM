@@ -1,11 +1,17 @@
-#streamlit_chat
 streamlit_chat==0.0.2.2
 nltk==3.8.1
 streamlit==1.19.0
 langchain==0.0.129
+chromadb
+
+#streamlit_chat
+#streamlit_chat==0.0.2.2
+#nltk==3.8.1
+#streamlit==1.19.0
+#langchain==0.0.129
 #langchain
 #langchain==0.0.120
-altair==4.0.1
+#altair==4.0.1
 #Chroma
 
 #gradio ==3.27.0
