@@ -4,3 +4,4 @@ nltk==3.8.1
 streamlit==1.19.0
 #langchain==0.0.129
 langchain
+altair==4.0.1
